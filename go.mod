@@ -2,6 +2,8 @@ module github.com/docker/mcp-registry
 
 go 1.24.0
 
+toolchain go1.26.10
+
 require (
 	github.com/charmbracelet/huh v0.7.0
 	github.com/charmbracelet/lipgloss v1.1.0
